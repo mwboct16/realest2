@@ -1,4 +1,4 @@
-# RealEst.
+![Real Estate Logo](./assets/pics/realest.jpg) 
 
 RealEst. is one of the best and fastest ways to view properties.
 
